@@ -88,7 +88,7 @@ Additional output formats (JSON, Excel)
 Unit tests for XML parsing
 
 📝 License
-This is a take-home solution. Use, adapt, improve!
+This repository contains my coding assignment submission for the PubMed fetcher. Use, adapt, improve!
 
 🙌 Thanks for reviewing!
 Run → Fetch → Parse → Filter → Ship! 🚀✨
