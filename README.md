@@ -68,8 +68,8 @@ poetry run get-papers-list "cancer therapy" --debug --file results.csv
 
 📄 Example Output CSV
 PubmedID |  Title                                                |	Publication Date |	Non-academic Author(s) | Company Affiliation(s) |	Corresponding Author Email
----------|-------------------------------------------------------|-------------------|-------------------------|------------------------|-----------------------------
-40635045 | A novel MIR100HG transcript enhances tumorigenesis... |	2025	           | Smith	                 |    ABC Pharma Inc.	    |     smith@abcpharma.com
+---------|-------------------------------------------------------|------------------- |-------------------- -----|--------------- --------|-----------------------------
+40635045 | A novel MIR100HG transcript enhances tumorigenesis... |	2025	           | Smith	                 |    ABC Pharma Inc.	   |     smith@abcpharma.com
 
 ---
 
